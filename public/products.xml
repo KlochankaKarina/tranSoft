@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>2</id>
+    <sku>г000021</sku>
+    <name>telephone 50</name>
+    <price>5000.00</price>
+    <qty>34.000</qty>
+    <description>&lt;span&gt;very good phone&lt;/span&gt;</description>
+  </product>
+  <product>
+    <id>3</id>
+    <sku>г000021</sku>
+    <name>telephone 20</name>
+    <price>11453.00</price>
+    <qty>34.000</qty>
+    <description>&lt;span&gt;expencive mobile phone&lt;/span&gt;</description>
+  </product>
+  <product>
+    <id>116</id>
+    <sku>ty0012</sku>
+    <name>telephone 22</name>
+    <price>33354.00</price>
+    <qty>6.000</qty>
+    <description>&lt;a&gt;this is a good phone&lt;/a&gt;</description>
+  </product>
+  <product>
+    <id>117</id>
+    <sku>u0043</sku>
+    <name>telephone 20</name>
+    <price>6664.00</price>
+    <qty>4.000</qty>
+    <description>&lt;a href=""&gt;very good phone&lt;/a&gt;</description>
+  </product>
+  <product>
+    <id>124</id>
+    <sku>u0007</sku>
+    <name>kava</name>
+    <price>333.00</price>
+    <qty>54.000</qty>
+    <description>&lt;span&gt;exclusive telephone&lt;/span&gt;</description>
+  </product>
+</products>
